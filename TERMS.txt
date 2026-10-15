@@ -1,0 +1,22 @@
+nrHome Studio Suite — Free beta distribution terms
+
+Copyright (c) 2026 Drew Shinhearts, for original material in which the creator
+holds copyright. Third-party components and media are excluded from this notice.
+
+You may download and use the original nrHome applications free of charge for
+personal or professional use. You may share the complete, unmodified official
+distribution free of charge, keeping its attribution and required notices.
+Voluntary support is optional and is not required for the supplied features.
+
+This is an application distribution, not an open-source release of the original
+nrHome development repository. Permissions not granted here remain reserved,
+subject to rights and exceptions provided by applicable law. No ownership or
+rights are claimed over your original recordings or other creations.
+
+Third-party software, runtimes and media remain governed by their own licenses.
+Nothing here reduces the permissions those licenses grant. Keep all required
+notices and satisfy any applicable source-availability obligations.
+
+This beta is provided "as is", without a promise of fitness, uninterrupted
+operation, future support or compatibility with a particular device or service.
+Keep backups of important work. Any limitation is subject to applicable law.

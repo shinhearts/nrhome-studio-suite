@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a repeatable problem in the Windows beta.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: dropdown
+    id: app
+    attributes:
+      label: Application
+      options: [nrVIEW, nrTUBE, nrRACK, nrMONOLOG, Suite / launcher]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version and Windows version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, what did you expect, and what happened?
+    validations:
+      required: true
+  - type: textarea
+    id: devices
+    attributes:
+      label: Devices and additional details
+      description: Audio interface, MIDI controller, displays, repeatability, or an optional screenshot. Do not attach private recordings, passwords, or personal identifiers.

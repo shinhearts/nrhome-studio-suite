@@ -23,7 +23,7 @@ Download the official files from [Releases](https://github.com/shinhearts/nrhome
 
 This beta targets **Windows x64**. The desktop runtimes are included: no Node.js installation, earlier nrHome app, or older patch is required. Keep each app beside its supplied resources and runtime files. GitHub's automatic **Source code** archive contains repository documentation, not the runnable apps.
 
-The download is free. Optional support will be linked here when available; payment will not be required for the supplied features. I'm a one-person operation, and support helps me keep building tools and games.
+The download is free. If you'd like to support the project, you can [leave an optional tip on Ko-fi](https://ko-fi.com/drewshinhearts). Payment is not required for the supplied features. I'm a one-person operation, and support helps me keep building tools and games.
 
 ## Your desktop, your collection
 

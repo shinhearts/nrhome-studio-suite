@@ -2,7 +2,6 @@
 
 **Vibe coded from the heart.** Created by Drew Shinhearts.
 
-A little more personal computing. A little less noise.
 
 nrHome is a collection of retro desktop tools for watching, listening, recording and making music. Floating vintage hardware, familiar controls, and shelves for the things you want to keep—while leaving the rest of your desktop available.
 

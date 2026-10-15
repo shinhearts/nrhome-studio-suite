@@ -17,7 +17,7 @@ nrFACE is a separate project and is not included in this suite.
 
 ## Get the Windows beta
 
-**Release preparation is underway.** The app downloads will appear on the Releases page when the beta is published.
+**Windows Beta 1 is available.** [Download the beta](https://github.com/shinhearts/nrhome-studio-suite/releases/tag/v0.1.0-beta.1).
 
 Download the official files from [Releases](https://github.com/shinhearts/nrhome-studio-suite/releases). Choose **Part1**, **Part2**, and **Setup-nrHome-Beta-1.cmd**, keeping all three in the same folder. Run the setup file to verify/extract both parts and create the four desktop shortcuts. Alternatively, extract both ZIPs into the same destination and run `Create-Desktop-Shortcuts.cmd` inside the suite folder.
 
